@@ -1,0 +1,8 @@
+# Compiled C/C++ outputs
+*.out
+*.exe
+a.out
+
+# Operating-system files
+.DS_Store
+Thumbs.db

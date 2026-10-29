@@ -1,0 +1,26 @@
+Student Name: Lisa Miller
+Student ID: 890238
+Number of courses enrolled: 4
+Course No
+ Course Name
+ Credits
+ Grade
+CSC478
+ ComputerSci
+ 3
+ B
+HIS356
+ History
+ 3
+ A
+MTH345
+ Mathematics
+ 4
+ A
+PHY357
+ Physics
+ 3
+ B
+Total number of credits: 13
+Mid-Semester GPA: 3.54
+1
